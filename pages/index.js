@@ -6,10 +6,10 @@ function Home() {
             <h1>Home</h1>
             <p>Em construção</p>
             <Link href="/sobre">
-                <a>Acessar página sobre</a>
+                Acessar página sobre
             </Link>
         </div>
     )
 }
 
-export default Home
+export default Home;
