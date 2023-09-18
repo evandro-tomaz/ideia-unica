@@ -1,15 +1,11 @@
-import Link from "next/link";
-
-function Home() {
+function HomePage() {
     return (
         <div>
-            <h1>Home</h1>
-            <p>Em construção</p>
-            <Link href="/sobre">
-                Acessar página sobre
-            </Link>
+            <h1>Home Evoware</h1>
+            <h2>Bem-vindo a Evoware</h2>
+            <p>Em construção...</p>
         </div>
     )
 }
 
-export default Home;
+export default HomePage;
